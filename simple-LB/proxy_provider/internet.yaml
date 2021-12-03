@@ -1,0 +1,17 @@
+proxies:
+- name: Internet1
+  type: trojan
+  server: host/ip
+  port: port
+  password: passwd
+  udp: true
+  sni: bug.com
+  skip-cert-verify: true
+- name: Internet2
+  type: trojan
+  server: host/ip
+  port: port
+  password: passwd
+  udp: true
+  sni: bug.com
+  skip-cert-verify: true
