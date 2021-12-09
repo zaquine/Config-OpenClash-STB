@@ -1,1 +1,1 @@
-# simple-LB-openClash
+# Config openclash khusus STB
