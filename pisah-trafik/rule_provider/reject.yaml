@@ -1,0 +1,21 @@
+payload:
+  #Huawei
+  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,www.pullcm.com
+  - DOMAIN-SUFFIX,heytapmobile.com
+  - DOMAIN-SUFFIX,heytapdl.com
+  - DOMAIN-SUFFIX,apps.coloros.com
+  - DOMAIN-SUFFIX,ivideosmart.com
+  - DOMAIN-SUFFIX,www.wartaekonomi.co.id
+  - DOMAIN-SUFFIX,popin.cc
+  - DOMAIN-SUFFIX,vivoglobal.com
+  - DOMAIN-SUFFIX,addthis.com
+  - DOMAIN-SUFFIX,tmpo.co
+  - DOMAIN-SUFFIX,ludashi.com
+  - DOMAIN-SUFFIX,beyla.site
+  - DOMAIN-SUFFIX,wshareit.com
+  - DOMAIN-SUFFIX,www.pullcf.com
+  - DOMAIN-SUFFIX,hetapus.com
+  - DOMAIN-SUFFIX,ucweb.com
+  - DOMAIN-SUFFIX,heytapmobi.com
+

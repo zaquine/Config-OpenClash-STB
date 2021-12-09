@@ -1,0 +1,11 @@
+payload:
+  # Google
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - IP-CIDR,74.125.24.188/16
+  - IP-CIDR,172.217.194.188/16
+  - IP-CIDR,142.250.4.188/16
+
